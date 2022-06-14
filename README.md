@@ -4,10 +4,10 @@
 
 ## Changes that I made:
 
-#     #JavaScript
+###     JavaScript
 - add a event listenner for "Enter" key to search instead of only search by click
 
-#      #Design
+###      Design
 - adapt root font-size to use rem as global on CSS
 - change color and size at most part of the project
 - adapt animation settings
